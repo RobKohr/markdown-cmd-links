@@ -36,7 +36,7 @@ When you click on these links in **code view** (not preview), the command will b
 
 1. **Clone or download this repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RobKohr/markdown-cmd-links.git
    cd markdown-cmd-links
    ```
 
@@ -68,7 +68,7 @@ When you click on these links in **code view** (not preview), the command will b
 
 1. **Clone and compile:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RobKohr/markdown-cmd-links.git
    cd markdown-cmd-links
    npm install
    npm run compile
