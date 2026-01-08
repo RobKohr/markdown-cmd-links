@@ -149,4 +149,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-[Add your license here]
+MIT License - see [LICENSE](LICENSE) file for details.
